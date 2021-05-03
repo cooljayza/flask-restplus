@@ -1,6 +1,6 @@
 # Algorithms (Flask-Restplus) Web API
 ​
-This is the eat-easy project a QR menu scanner app.
+This is a web api exposing methods for summing, finding closest number to zero from a list of numbers and grouping users by gender.
 ​
 ## Getting Started
 ​
